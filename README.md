@@ -3,7 +3,7 @@ This is a portfolio of projects and other fun activities completed during the co
 
 List of Projects and Labs:
 
-[Lab #1] (https://esavage503.github.io/cit281-lab-1)
+[Lab #1](https://esavage503.github.io/cit281-lab-1)
 
 project #1
 
